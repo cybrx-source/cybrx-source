@@ -7,5 +7,5 @@
     \____/  _\__, / /_.___//_/    /_/|_| /_/  /____/ /____/ /_/   
             /____/                                                
 </pre>
-<p>Author: CybrX1337 - For only Educational and Legal Consent</p>p
+<p>Author: CybrX1337 - For only Educational and Legal Consent</p>
 </div>
