@@ -8,5 +8,5 @@
             /____/                                                
 
 </pre>
-<h2>CybrX1337 - For only <strong>Educational</strong>strong> and <strong>Legal</strong> Consent</h2>
+<h3>CybrX1337 - For only <strong>Educational</strong> and <strong>Legal</strong> Consent</h3>
 </div>
