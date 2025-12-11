@@ -8,8 +8,6 @@
             /____/                                                
 
 </pre>
-<h3>CybrX1337 - For only <strong>Educational</strong> and <strong>Legal</strong> Consent</h3>
-</div>
 
 <h1 align="center" style="font-size: 48px;">CybrX1337</h1>
 <h3 align="center"><code>still learning.</code> - Cyber Security Enthusiasts.</h3>
