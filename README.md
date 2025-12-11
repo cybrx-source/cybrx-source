@@ -35,11 +35,3 @@
 ![sqlmap](https://img.shields.io/badge/sqlmap-black?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nxploited&theme=dark&hide_border=true&show_icons=true&hide=prs,issues,contribs" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nxploited&layout=compact&theme=dark&hide_border=true"/>
-</p>
