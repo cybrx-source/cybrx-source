@@ -14,10 +14,6 @@
 <h1 align="center" style="font-size: 48px;">CybrX1337</h1>
 <h3 align="center"><code>still learning.</code> - Cyber Security Enthusiasts.</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=F70000&center=true&vCenter=true&width=500&lines=Ethical+Hacker;Cybersecurity+Specialist;WordPress+0-Day+Hunter;Exploit+Writer" />
-</p>
-
 <p align="center"><i>"i'm not sure what i'm doing."</i></p>
 
 ---
