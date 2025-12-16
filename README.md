@@ -1,5 +1,5 @@
 <div align="center">
-  <pre>
+  <pre style="font-size: 16px; line-height: 1.2;">
     _________       ______        ____  __________________________
     __  ____/____  ____  /__________  |/ /_<  /_|__  /_|__  /__  /
     _  /    __  / / /_  __ \\  ___/_    /__  /___/_ <___/_ <__  / 
@@ -7,11 +7,11 @@
     \____/  _\__, / /_.___//_/    /_/|_| /_/  /____/ /____/ /_/   
             /____/                                                
   </pre>
-  
-  <h1>CybrX1337</h1>
-  <p><em>Cybersecurity Enthusiast • Still Learning • <code>i'm not sure what i'm doing.</code></em></p>
 
-  <p><i>“The only way to learn is to keep exploring.”</i></p>
+  <h1 style="font-size: 4rem; margin-top: 20px; margin-bottom: 10px;">CybrX1337</h1>
+  <p style="font-size: 1.5rem; margin-top: 0; color: #cccccc;"><em>Cybersecurity Enthusiast • Still Learning • <code>i'm not sure what i'm doing.</code></em></p>
+
+  <p style="font-style: italic; font-size: 1.2rem; color: #bbbbbb;">“The only way to learn is to keep exploring.”</p>
 </div>
 
 ---
