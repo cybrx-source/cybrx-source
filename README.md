@@ -8,10 +8,8 @@
             /____/                                                
 
 <p style="font-size: 1.5rem; margin-top: 0; color: #cccccc;"><em>Cybersecurity Enthusiast • Still Learning • <code>i'm not sure what i'm doing.</code></em></p>
-</pre>
-<p style="font-size: 1.5rem; margin-top: 0; color: #cccccc;"><em>Cybersecurity Enthusiast • Still Learning • <code>i'm not sure what i'm doing.</code></em></p>
-
 <p style="font-style: italic; font-size: 1.2rem; color: #bbbbbb;">“The only way to learn is to keep exploring.”</p>
+</pre>
 </div>
 
 ## 🔍 About Me
